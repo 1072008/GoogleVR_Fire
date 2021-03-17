@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 689de20dda2eb8347acb50c81e2fa498
+  - enabled: 1
+    path: Assets/Scenes/Fire_scene.unity
+    guid: 634c41117f48a1940933d58845b6f252
+  - enabled: 0
+    path: Assets/GoogleVR/Beta/Demos/Scenes/HelloMR.unity
+    guid: abadaf21babd44e5998c8ed818bb7650
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: df30f96c065cb4a24bd83c130a6f3761,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b7261467ba6314110a320a673226c98e,
+      type: 2}

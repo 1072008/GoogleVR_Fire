@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F9EFFF0A-A7B2-961C-1AA9-177C9E373342}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/objectstrigger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/buttonaction.cs" Line="54" Column="15" />
+      <File FileName="Assets/Scripts/Blood.cs" Line="41" Column="27" />
+      <File FileName="Assets/Scripts/objectstrigger.cs" Line="102" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoogleVR_Test_v1.5" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="objectstrigger.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9e55040d-4edf-4d31-8820-b9698365a274" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
